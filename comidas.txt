@@ -1,0 +1,11 @@
+LISTA DE COMIDAS
+[]Bandeja paisa
+[]Sancocho
+[]Mondongo
+[]Picada
+[]Lasaña
+[]Hamburguesa
+[]Arepa rellena
+[]Perro caliente
+[]Albondiga
+[]Chuzo
