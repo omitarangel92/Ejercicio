@@ -1,31 +1,31 @@
 LISTA DE CANCIONES
-[]Yo te quiero
-[]Distintos destinos
-[]Cuando se pierde un amor
+[*]Yo te quiero
+[*]Distintos destinos
+[*]Cuando se pierde un amor
 []Gitana
 []Te encontre
 []No te vayas
-[]No pude olvidarte
-[]El perdedor
+[*]No pude olvidarte
+[*]El perdedor
 []Virgen
 []No me digas que no
-[]Que quieres de mi
+[*]Que quieres de mi
 []Hoy me di cuenta
-[]Odio
+[*]Odio
 []Rebelion
-[]Te compro a tu novia
+[*]Te compro a tu novia
 []Ahora dice
 []Sirena encantada
-[]Enseñame a olvidar
-[]Conteo regresivo
+[*]Enseñame a olvidar
+[*]Conteo regresivo
 []Vete y dile
 []Amor de colegio
-[]Olvidala
+[*]Olvidala
 []Imitadora
 []Swagga
 []Si me dejas no vale
-[]My space
-[]Busca un confidente
-[]Hilito
-[]La conciencia
-[]Moviendo la cadera
+[*]My space
+[*]Busca un confidente
+[*]Hilito
+[*]La conciencia
+[]Moviendo la caderai

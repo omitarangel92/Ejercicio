@@ -1,31 +1,31 @@
 LISTA DE PELICULAS
-[]Dragon ball Z
+[*]Dragon ball Z
 []Matrix
-[]Harry Potter
-[]Rapido y Furioso
-[]El conjuro
+[*]Harry Potter
+[*]Rapido y Furioso
+[*]El conjuro
 []Golpe bajo
 []Toy story
 []La red social
-[]La noche del demonio
+[*]La noche del demonio
 []Thor
-[]Ralph el demoledor
+[*]Ralph el demoledor
 []Pokemon
 []Titanic
-[]Iron man
+[*]Iron man
 []Pirañas 3D
 []Gravedad
 []Superman
-[]Se busca
-[]Alien
+[*]Se busca
+[*]Alien
 []X-men
-[]47 Ronin
+[*]47 Ronin
 []Avatar
 []Poseidon
 []Terminator
 []No se aceptan devoluciones
 []Los piratas del silicon valley
 []Yu-gi-oh
-[]Los vengadores
+[*]Los vengadores
 []El trasnportador
-[]El paseo
+[*]El paseo

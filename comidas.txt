@@ -1,32 +1,32 @@
 LISTA DE COMIDAS
-[]Bandeja paisa
+[*]Bandeja paisa
 []Sancocho
 []Mondongo
-[]Picada
+[*]Picada
 []Lasaña
-[]Hamburguesa
+[*]Hamburguesa
 []Mojarra
-[]Arepa rellena
-[]Perro caliente
-[]Albondiga
+[*]Arepa rellena
+[*]Perro caliente
+[*]Albondiga
 []Chuzo
-[]chorizo
-[]Oblea
+[*]chorizo
+[*]Oblea
 []Ensalada de frutas
-[]Coca cola
+[*]Coca cola
 []Mazamorra
-[]Arroz chino
+[*]Arroz chino
 []Burrito
-[]Cholao
-[]Pollo frito
-[]Crispetas
-[]Helado
-[]Patacon
+[*]Cholao
+[*]Pollo frito
+[*]Crispetas
+[*]Helado
+[*]Patacon
 []Malteada
 []Chunchulla
-[]Arepa paisa
-[]Empanada
+[*]Arepa paisa
+[*]Empanada
 []Chuleta de pescado
 []Salchipapa
 []Coctel
-[]Pizza
+[*]Pizza
