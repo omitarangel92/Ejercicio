@@ -5,6 +5,7 @@ LISTA DE COMIDAS
 []Picada
 []Lasaña
 []Hamburguesa
+[]Mojarra
 []Arepa rellena
 []Perro caliente
 []Albondiga
@@ -19,3 +20,13 @@ LISTA DE COMIDAS
 []Cholao
 []Pollo frito
 []Crispetas
+[]Helado
+[]Patacon
+[]Malteada
+[]Chunchulla
+[]Arepa paisa
+[]Empanada
+[]Chuleta de pescado
+[]Salchipapa
+[]Coctel
+[]Pizza
