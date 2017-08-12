@@ -19,3 +19,13 @@ LISTA DE PELICULAS
 []Se busca
 []Alien
 []X-men
+[]47 Ronin
+[]Avatar
+[]Poseidon
+[]Terminator
+[]No se aceptan devoluciones
+[]Los piratas del silicon valley
+[]Yu-gi-oh
+[]Los vengadores
+[]El trasnportador
+[]El paseo
