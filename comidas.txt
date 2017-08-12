@@ -9,3 +9,13 @@ LISTA DE COMIDAS
 []Perro caliente
 []Albondiga
 []Chuzo
+[]chorizo
+[]Oblea
+[]Ensalada de frutas
+[]Coca cola
+[]Mazamorra
+[]Arroz chino
+[]Burrito
+[]Cholao
+[]Pollo frito
+[]Crispetas
